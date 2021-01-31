@@ -1,0 +1,14 @@
+.singleUser-main-style{
+    font-family: Roboto;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+}
+.singleUser-body-style{
+    width: 500px;
+    margin: 10px auto;
+    border: 1px solid gray;
+    border-radius: 20px;
+    background-color: steelblue;
+    color: white
+}
